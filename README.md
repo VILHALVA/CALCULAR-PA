@@ -35,5 +35,4 @@ A "Progressão Aritmética" é uma aplicação que permite calcular os termos de
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
 
